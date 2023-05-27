@@ -5,8 +5,7 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div className={styles.container}>
-      <div className="vanhung">
-        
+      <div className="vanhung">        
       </div>
       <Head>
         <title>HUNG NGUYEN NEXTJS WEBSITE</title>
